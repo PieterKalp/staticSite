@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "co.gametester.mobile",
+            "sha256_cert_fingerprints": [
+                "81:3E:41:80:5A:70:3A:A4:3C:0B:29:AF:5B:9B:28:42:3B:1C:44:5A:E2:2C:56:62:15:B7:19:8C:94:9A:81:A6"
+            ]
+        }
+    }
+]
